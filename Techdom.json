@@ -1,0 +1,23 @@
+{
+    "Author": "Luna",
+    "Name": "Techdom - Findom",
+    "InternalName": "Techdom - Findom",
+    "Description": "Techdom Augment | Findom | For subs like Dandy",
+    "ApplicableVersion": "any",
+    "Punchline": "Techdom Augment | Findom | For subs like Dandy",
+    "RepoUrl": "https://github.com/",
+    "AcceptsFeedback": false,
+    "DalamudApiLevel": 13,
+    "IsHide": false,
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "TestingDalamudApiLevel": 11,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/lunaa-bit/Techdom-fin/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lunaa-bit/Techdom-fin/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/lunaa-bit/Techdom-fin/releases/download/1.0.0.0/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/lunaa-bit/Techdom-fin/main/Dropbox/images/icon.png"
+}
